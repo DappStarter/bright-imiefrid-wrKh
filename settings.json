@@ -1,0 +1,13 @@
+{
+    "name": "MotusDapp",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "MotusDAO",
+        "/category/asset_value_tracking/core-token/symbol": "MOTUS",
+        "/category/asset_value_tracking/core-token/decimals": "9",
+        "/category/asset_value_tracking/core-token/supply": "400000"
+    }
+}
